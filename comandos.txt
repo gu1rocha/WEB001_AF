@@ -1,0 +1,9 @@
+Criação de uma pasta, nomeada de GIT, na máquina
+Clicar com o botão direito do mouse, escolher a opção "Git Bash Here", que abre o prompt de comando do GIT
+git clone https://github.com/gu1rocha/WEB001_AF.git
+cd WEB001_AF
+Criação dos arquivos "Nome.txt" e "comandos.txt" na pasts WEB001_AF da máquina
+git add *
+git status
+git commit -m "Meu primeiro Commit"
+git push origin master
